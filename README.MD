@@ -1,6 +1,6 @@
 # iname - Enhanced Kernel Information Utility
 
-`iname` is a comprehensive kernel information tool that provides detailed system analysis beyond the standard `uname` command. It offers security status, virtualization detection, hardware information, and much more in a clean, systemd-style output.
+`iname` is a comprehensive kernel information tool that provides detailed system analysis beyond the standard `uname` command. It offers security status, virtualization detection, hardware information, and much more in a clean and complete output.
 
 ## Features
 
@@ -20,12 +20,7 @@ sudo chmod +x /usr/local/bin/iname
 
 ## Quick Install
 
-### One-line installer (recommended):
+### Universal Installer (Linux & macOS):
 ```bash
 curl -s https://raw.githubusercontent.com/IRodriguez13/Iname/master/install.sh | bash
-```
-## For MacOs
-```bash
-curl -s -o /usr/local/bin/iname https://raw.githubusercontent.com/IRodriguez13/Iname/master/iname-macos.sh
-chmod +x /usr/local/bin/iname
 ```
