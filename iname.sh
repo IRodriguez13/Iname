@@ -1,9 +1,10 @@
 #!/bin/bash
 
 # iname - Enhanced Kernel Information Utility
-# Version: 2.0
-# Author: $(whoami)
+# Version: 1.0
+# Author: Iván E. Rodriguez
 # Description: Comprehensive kernel information and analysis tool
+# This is Free Software.
 
 SCRIPT_NAME="iname"
 SCRIPT_VERSION="2.0"

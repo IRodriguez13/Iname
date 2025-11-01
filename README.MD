@@ -12,9 +12,20 @@
 - **Filesystem Details**: Root filesystem and supported filesystems
 - **Clean Output**: `[OK]`, `[FAIL]`, `[INFO]` status indicators
 
+## Manual Instalation 
+```bash
+sudo curl -s -o /usr/local/bin/iname https://raw.githubusercontent.com/IRodriguez13/Iname/master/iname.sh
+sudo chmod +x /usr/local/bin/iname
+```
+
 ## Quick Install
 
 ### One-line installer (recommended):
 ```bash
 curl -s https://raw.githubusercontent.com/IRodriguez13/Iname/master/install.sh | bash
+```
+## For MacOs
+```bash
+curl -s -o /usr/local/bin/iname https://raw.githubusercontent.com/IRodriguez13/Iname/master/iname-macos.sh
+chmod +x /usr/local/bin/iname
 ```
