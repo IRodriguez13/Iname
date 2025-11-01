@@ -12,15 +12,15 @@
 - **Filesystem Details**: Root filesystem and supported filesystems
 - **Clean Output**: `[OK]`, `[FAIL]`, `[INFO]` status indicators
 
+## Quick Install
+### Universal Installer (Linux & macOS):
+```bash
+curl -s https://raw.githubusercontent.com/IRodriguez13/Iname/master/install.sh | bash
+```
+
 ## Manual Instalation 
 ```bash
 sudo curl -s -o /usr/local/bin/iname https://raw.githubusercontent.com/IRodriguez13/Iname/master/iname.sh
 sudo chmod +x /usr/local/bin/iname
 ```
 
-## Quick Install
-
-### Universal Installer (Linux & macOS):
-```bash
-curl -s https://raw.githubusercontent.com/IRodriguez13/Iname/master/install.sh | bash
-```

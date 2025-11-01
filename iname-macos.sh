@@ -27,8 +27,7 @@ WARN="${YELLOW}[WARN]${NC}"
 
 # Function to show version
 show_version() {
-    echo "iname v1.0"
-    echo "This is free software utility for MAC OS systems"
+    echo "iname v1.0 - This is free software utility for MAC OS systems"
     echo "author: Iván Rodriguez // https://github.com/IRodriguez13"
 }
 
