@@ -16,4 +16,5 @@
 
 ### One-line installer (recommended):
 ```bash
-curl -s https://raw.githubusercontent.com/IRodriguez13/iname/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/IRodriguez13/Iname/main/install.sh | bash
+``
