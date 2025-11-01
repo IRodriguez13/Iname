@@ -7,7 +7,7 @@ set -e
 
 INSTALL_DIR="${HOME}/.local/bin"
 SCRIPT_NAME="iname"
-SCRIPT_URL="https://raw.githubusercontent.com/IRodriguez13/Iname/main/iname.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/IRodriguez13/Iname/master/iname.sh"
 
 echo "Installing iname to ${INSTALL_DIR}..."
 
